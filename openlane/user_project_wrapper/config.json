@@ -1,8 +1,12 @@
 {
-    "DESIGN_NAME": "user_project_wrapper",
+    "DESIGN_NAME": "user_proj_example",
+    "DESIGN_IS_CORE": 0,
     "VERILOG_FILES": [
-        "dir::../../verilog/rtl/defines.v",
-        "dir::../../verilog/rtl/user_project_wrapper.v"
+        "../verilog/rtl/defines.v",
+        "../verilog/rtl/pes_se_M.v",
+        "../verilog/rtl/pes_se_M_full_adder.v",
+        "../verilog/rtl/pes_se_M_half_adder.v",
+        "../verilog/rtl/user_example.v"
     ],
     "ROUTING_CORES": 1,
     "CLOCK_PERIOD": 25,
