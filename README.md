@@ -16,3 +16,6 @@ Refer to the following [readthedocs](https://caravel-sim-infrastructure.readthed
 # Linting Error
 
 ![image](https://github.com/FF-Industries/sequential-multiplier/assets/136846161/501edf71-3fa7-43ca-90b4-4c5aae862c6c)
+
+![image](https://github.com/FF-Industries/sequential-multiplier/assets/136846161/3f45ae64-545a-4dbf-a02b-b04104b7dbc5)
+
